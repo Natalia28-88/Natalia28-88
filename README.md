@@ -1,5 +1,12 @@
-### Hi there, i'm Natalia 👋
+### Hi there, I'm Natalia 👋
 
-- 🔭 I’m a developer and an environment volunteer 
-- 👀 OK in HTML/CSS/JavaScript
-- 📫 How to reach me: n8194602@gmail.com
+🔭 Frontend developer focused on building clean, responsive web interfaces  
+🌱 Currently improving skills in React, Next.js, TypeScript, and modern frontend tools  
+👩‍💻 Experienced with HTML5, CSS3 (Sass, TailwindCSS), JavaScript, and UI design  
+💡 Passionate about creating user-friendly websites and learning new technologies  
+🌍 Environment volunteer, combining tech with sustainability efforts  
+
+📫 How to reach me: n8194602@gmail.com
+
+### Technologies & Tools  
+HTML5 · CSS3 · Sass · TailwindCSS · JavaScript · React · Next.js · TypeScript · Git · Figma
