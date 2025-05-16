@@ -6,7 +6,7 @@
 💡 Passionate about creating user-friendly websites and learning new technologies  
 🌍 Environment volunteer, combining tech with sustainability efforts  
 
-📫 How to reach me: n8194602@gmail.com
+📫 How to reach me: n8194602@gmail.com / natalia.dev@proton.me
 
 ### Technologies & Tools  
 HTML5 · CSS3 · Sass · TailwindCSS · JavaScript · React · Next.js · TypeScript · Git · Figma
